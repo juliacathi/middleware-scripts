@@ -45,3 +45,6 @@ echo
   systemctl start firewalld
   systemctl enable firewalld
   systemctl status firewalld
+
+
+  fi
