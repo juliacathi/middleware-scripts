@@ -47,4 +47,4 @@ echo
   systemctl status firewalld
 
 
-  fi
+  
